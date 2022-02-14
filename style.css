@@ -1,0 +1,16 @@
+body{
+  background-color: lightblue
+}
+
+.wikipedia{
+  color: red;
+}
+
+.ny-times{
+  color: yellow;
+}
+
+.bi-person-dash{
+  color: blue;
+  font-size: 72px;
+}
